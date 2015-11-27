@@ -1,0 +1,90 @@
+<div style=
+"BORDER-BOTTOM: #4f81bd 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 4pt; PADDING-LEFT: 0in; PADDING-RIGHT: 0in; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0in; mso-element: para-border-div; mso-border-bottom-themecolor: accent1">
+<p style="MARGIN: 0in 0in 15pt" class="MsoTitle">
+        <span style=
+        "FONT-FAMILY: 'Arial', 'sans-serif'; COLOR: red"><font size="7">
+        <font face="Arial">Sample word doc (Arial size
+        26)</font></font></span>
+    </p>
+</div>
+<p style="MARGIN: 0in 0in 10pt" class="MsoNormal">
+    <span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">
+    <font color="#000000">Arial size 12 font, no
+    indent</font></span>
+</p>
+<p style="MARGIN: 0in 0in 10pt 0.5in" class="MsoNormal">
+    <span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">
+    <font color="#000000">Indent level 1</font></span>
+</p>
+<p style="MARGIN: 0in 0in 10pt 1in" class="MsoNormal">
+    <span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">
+    <font color="#000000">Indent level 2</font></span>
+</p>
+<p style="MARGIN: 0in 0in 10pt 1in" class="MsoNormal">
+    <span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">
+    <font color="#000000">Indent level 2</font></span>
+</p>
+<p style="MARGIN: 0in 0in 10pt 0.5in" class="MsoNormal">
+    <span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">
+    <font color="#000000">Indent level 1</font></span>
+</p>
+<p style=
+"TEXT-INDENT: -0.25in; MARGIN: 0in 0in 0pt 0.25in; mso-add-space: auto; mso-list: l0 level1 lfo1"
+class="MsoListParagraphCxSpFirst">
+    <font color="#000000"><span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol">
+    <span style="mso-list: Ignore">·<span style=
+    "FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>
+    <span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">
+    Bullet 1</span></font>
+</p>
+<p style=
+"TEXT-INDENT: -0.25in; MARGIN: 0in 0in 0pt 0.25in; mso-add-space: auto; mso-list: l0 level1 lfo1"
+class="MsoListParagraphCxSpMiddle">
+    <font color="#000000"><span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: Symbol; FONT-SIZE: 12pt; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol">
+    <span style="mso-list: Ignore">·<span style=
+    "FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span>
+    <span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">
+    Bullet 2</span></font>
+</p>
+<p style="MARGIN: 0in 0in 0pt 0.25in; mso-add-space: auto" class=
+"MsoListParagraphCxSpMiddle">
+    <span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">
+    <font color="#000000">&nbsp;</font></span>
+</p>
+<p style=
+"TEXT-INDENT: -0.25in; MARGIN: 0in 0in 0pt 0.25in; mso-add-space: auto; mso-list: l1 level1 lfo2"
+class="MsoListParagraphCxSpMiddle">
+    <font color="#000000"><span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Arial">
+    <span style="mso-list: Ignore">1.<span style=
+    "FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;</span></span></span>
+    <span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">
+    Number 1</span></font>
+</p>
+<p style=
+"TEXT-INDENT: -0.25in; MARGIN: 0in 0in 10pt 0.25in; mso-add-space: auto; mso-list: l1 level1 lfo2"
+class="MsoListParagraphCxSpLast">
+    <font color="#000000"><span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt; mso-fareast-font-family: Arial">
+    <span style="mso-list: Ignore">2.<span style=
+    "FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;</span></span></span>
+    <span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">
+    Number 2</span></font>
+</p>
+<p style="MARGIN: 0in 0in 10pt" class="MsoNormal">
+    <span style=
+    "LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial', 'sans-serif'; FONT-SIZE: 12pt">
+    <font color="#000000">&nbsp;</font></span>
+</p>
